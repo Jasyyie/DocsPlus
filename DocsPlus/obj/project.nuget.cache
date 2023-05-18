@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "HHUbaTsvOu2pYWWHFZzVzvbby0Oz5OOTs7q0Wwe+sq/jRnRVpc4Uez2/2k2D1xZcH9Caq/Y3Q1Fg1ypI0vPzQw==",
+  "success": true,
+  "projectFilePath": "/Users/jasmine_tur/Documents/DocsPlus/DocsPlus.csproj",
+  "expectedPackageFiles": [
+    "/Users/jasmine_tur/.nuget/packages/microsoft.aspnetcore.openapi/7.0.5/microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "/Users/jasmine_tur/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/jasmine_tur/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/jasmine_tur/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/jasmine_tur/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/jasmine_tur/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/jasmine_tur/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
